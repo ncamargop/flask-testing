@@ -1,0 +1,15 @@
+# Best directory org:
+
+
+my_flask_app/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── models.py
+│
+├── venv/
+│
+├── config.py 
+├── app.py
+└── requirements.txt
